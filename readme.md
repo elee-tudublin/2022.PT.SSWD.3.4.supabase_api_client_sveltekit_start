@@ -125,9 +125,9 @@ The store script defines two **writable store objects** for **`products`** and *
 
 There are three functions
 
-- `**getAllProducts()`**
-- `**getAllCategories()`**
-- `**getProductsByCat()`**
+- **`getAllProducts()`**
+- **`getAllCategories()`**
+- **`getProductsByCat()`**
 
  *Read the code comments for details.* 
 
