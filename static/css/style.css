@@ -1,0 +1,41 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700");
+
+html {
+  font-size: 100%;
+  font-family: "Open Sans", sans-serif;
+  background: #DCE3E6;
+  padding: 0% 3%;
+}
+
+body {
+  max-width: 60rem;
+  padding: 0 0 1rem 0;
+  margin: 6em auto 19rem;
+  background: #fff;
+  color: #333;
+  font-size: 0.8rem;
+  position: relative;
+  box-shadow: 0 .3em 1rem #000;
+}
+
+h1 {
+  font-size: 1.75rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+h3 {
+  font-size: 1.2rem;
+}
+
+h4 {
+  font-size: 1.25rem;
+}
+
+.answer {
+  color: red;
+  font-size: 2rem;
+}
