@@ -25,15 +25,9 @@ The application will use **separate** **`client`** and **`server`** applications
 
 ##### Server-side
 
-The client functionality is dependent on a server API with Category and Product endpoints. Make sure that the server API is running and listening on http://localhost:5001
+The client functionality is dependent on a server API with Category and Product endpoints provided by Supabase. Make sure that you have set up the products database in Supabase
 
 
-
-
-
-![client and server apps](./media/app_overview2.png)
-
-The client site/ application will fetch its data from the server-side API running on http://localhost:5001
 
 
 
