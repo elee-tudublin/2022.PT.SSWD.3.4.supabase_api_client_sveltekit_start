@@ -21,10 +21,6 @@ This tutorial will use **SvelteKit** to create a client website which will uses 
 
 ## 1. Pre-requisites
 
-The application will use **separate** **`client`** and **`server`** applications which should be opened in separate VS Code instances when working on this lab.
-
-##### Server-side
-
 The client functionality is dependent on a server API with Category and Product endpoints provided by Supabase. Make sure that you have set up the products database in Supabase
 
 
